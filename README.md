@@ -1,1 +1,1 @@
-[![Gitpet](https://gitpet.rach-rgb.workers.dev/api/card/rach-rgb)](https://petgotchi.dev/u/rach-rgb)
+![GitChi](https://gitchi.dev/api/card/rach-rgb)
